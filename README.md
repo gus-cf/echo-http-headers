@@ -8,11 +8,9 @@ Achieves thousands of req/sec with minimal CPU/memory usage.
 ### TO RUN
 
 ```
-
 # HTTP version
 go run server.go
 
 # HTTPS version
 go run server-tls.go
-
 ```
